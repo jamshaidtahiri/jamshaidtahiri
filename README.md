@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Jamshaid Tahiri 👋
 
-<!--
-**jamshaidtahiri/jamshaidtahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate electrical engineer with a focus on building bots and automating tasks to enhance productivity. I enjoy problem-solving and exploring new technologies to create innovative solutions. My interests range from web scraping to mobile automation.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Building a Facebook bot for automated login and uploading.
+- Exploring various data structures and algorithms to enhance problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures and Algorithms (DSA) to become a better problem solver.
+- Web scraping techniques to extract data from websites efficiently.
+- Mobile automation using frameworks like Appium for testing and task automation.
+
+## 👯 Looking to Collaborate On
+- Open-source projects related to automation and bot development.
+- Problem-solving challenges and hackathons.
+
+## 💬 Ask Me About
+- Building bots and automation scripts using Python.
+- Web scraping and data extraction techniques.
+- Android app development and mobile automation.
+
+## 📫 How to Reach Me
+- LinkedIn: [Jamshaid Tahiri](https://www.linkedin.com/in/jamshaidtahiri/)
+- Email: jamshaid.tahiri1@gmail.com
+
+## Achievements:
+![<HACKERRANK>](#00EA64)
+- Earned 5 stars in HackerRank Python.
+
