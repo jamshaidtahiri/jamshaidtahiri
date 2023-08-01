@@ -26,6 +26,6 @@ I'm a passionate electrical engineer with a focus on building bots and automatin
 - Email: jamshaid.tahiri1@gmail.com
 
 ## Achievements:
-![<HACKERRANK>](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![<HACKERRANK>](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) :star2:
 - Earned 5 stars in [HackerRank](https://www.hackerrank.com/jamshaid_tahiri1) Python.
 
