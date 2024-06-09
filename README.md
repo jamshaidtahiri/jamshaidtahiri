@@ -19,7 +19,7 @@ I'm a passionate electrical engineer with a focus on building bots and automatin
 ## 💬 Ask Me About
 - Building bots and automation scripts using Python.
 - Web scraping and data extraction techniques.
-- Android app development and mobile automation.
+- Web app development and mobile automation.
 
 ## 📫 How to Reach Me
 - LinkedIn: [Jamshaid Tahiri](https://www.linkedin.com/in/jamshaidtahiri/)
