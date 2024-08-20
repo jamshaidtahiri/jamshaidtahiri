@@ -56,10 +56,7 @@ Web app development and mobile automation.
 📫 How to Reach Me
 LinkedIn: Jamshaid Tahiri
 Email: jamshaid.tahiri1@gmail.com
-Achievements:
+Achievements
 
 
-:star2::star2::star2::star2::star2:-
-
-Earned 5 stars in HackerRank Python.
-
+⭐️⭐️⭐️⭐️⭐️ - Earned 5 stars in HackerRank Python.
