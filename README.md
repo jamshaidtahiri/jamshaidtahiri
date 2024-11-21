@@ -36,7 +36,9 @@ I'm an aspiring **Data Engineer** with a solid foundation in **Electrical Engine
 
 ## 📫 How to Reach Me  
 - **LinkedIn**: [Jamshaid Tahiri](https://www.linkedin.com/in/jamshaidtahiri/)  
-- **Email**: [jamshaid.tahiri1@gmail.com](mailto:jamshaid.tahiri1@gmail.com) 
+- **Email**: [jamshaid.tahiri1@gmail.com](mailto:jamshaid.tahiri1@gmail.com)
+
+---
 
 ## Achievements
 ![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
